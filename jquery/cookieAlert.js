@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	$('#cookieDisplay').hide().show('fast');
+	$('#cookieDisplay').hide().delay(2000).slideDown(2000);
 
 });
 
