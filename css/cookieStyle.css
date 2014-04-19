@@ -1,51 +1,22 @@
-/* Css John Quirke 
-* Styles for a small cookie notice
-*
+/* 
+*Css John Quirke 
+*Styles for a small cookie notice
+*www.JohnQuirke.com
+*email John @ JohnQuirke .com
+* April 2014
 */
- /* -------------------------------------------------------- ----------------------------------------
+
+/* -------------------------------------------------------- ----------------------------------------
                                              COOKIE BANNER - START
 -------------------------------------------------------- -------------------------------------------*/ 
-p {font-family: Georgia,"Times New Roman",Times,serif;font-size:15px;}
-.statementdisplay_block {
-    background-color:#EDF4FB;
-    box-shadow:0 0 10px #AAA;
-    color:#000;
-    display:block;
-    font-family:Arial;
-    font-size:9pt;
-    margin-bottom:10px;
-    overflow:hidden;
-    text-align:center;
-    width:100%;
-    padding:12px 0 0;
-    
-}
 
-.divpoverlay {
-    line-height:16px;
-    width:991px;
-    position:relative;
-    margin:0 auto;
-}
 
-.closeicon {
-    background:url(../img/cookie_close.gif) no-repeat scroll 0 0 transparent;
-    top:21px;
-    position:absolute;
-    right:6px;
-    padding:10px;
-}
+.jq-para {font-family: Georgia,"Times New Roman",Times,serif;font-size:15px;}
+.jq-cookie-block { background-color:#EDF4FB;box-shadow:0 0 10px #AAA;color:#000;display:block;font-family:Arial;font-size:9pt;margin-bottom:10px;overflow:hidden;text-align:center;width:100%;}
+.jq-overlay { line-height:16px; width:90%; position:relative; margin:0 auto;}
+.jq-closebtn {background:url(../images/cookie_close.gif) no-repeat scroll 0 0 transparent;top:21px;position:absolute;right:6px;padding:10px;}
+.pannelHead .rtxt_title {display:none;}
 
-.pannelHead .rtxt_title {
-    display:none;
-}
 
-.closeicon {
-background: url(../images/cookie_close.gif) no-repeat scroll 0 0 transparent;
-top: 21px;
-position: absolute;
-right: 6px;
-padding: 10px;
-}
 
 

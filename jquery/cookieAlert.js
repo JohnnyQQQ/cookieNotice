@@ -1,5 +1,15 @@
 $(document).ready(function(){
 
-	$('#statementDisplay').hide().show(5000);
+	$('#cookieDisplay').hide().show('fast');
+
+});
+
+$(document).ready(function(){
+
+	$('#jq-button').click(function(){
+	
+		$('#cookieDisplay').hide();
+	
+	});
 
 });
